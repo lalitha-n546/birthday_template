@@ -13,7 +13,7 @@ Made using the HTML ,CSS and a bit of JS.
 - Responsive mobile-first design
 - Click-to-reveal formatted birthday message
 - Easy-to-edit friend name and message in the HTML
-- 
+  
 A mobile-friendly, ready-to-post single-file HTML birthday card you can host on GitHub Pages or share directly hosting on websites like [Netlify](https://www.netlify.com/),[Render](https://render.com/),etc..
   
 
