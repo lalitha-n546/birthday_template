@@ -3,6 +3,7 @@
 Made using the HTML ,CSS and a bit of JS.
 
 ![Image](image.png)
+## Visit the website [here](https://lalitha-n546.github.io/birthday_template/)
 ## How to use?
 1. Save this file as `Birthday-Card-For-Friends.html`.
 2. Commit it to a GitHub repo and enable GitHub Pages (select main branch / root) to publish.
